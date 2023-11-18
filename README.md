@@ -7,6 +7,8 @@
 - 𖥔What I will learn in the future: **Go, Docker, Kibana, T-SQL, NoSQL, Ecma, RabitMQ, Redis, React, Vanilla.js, NoSQL **
 - 𖥔 I rarely write articles on [multicode.io](multicode.io)
 
+[![](https://visitcount.itsvg.in/api?id=yavuzyazici&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/yavuzyazici)
+
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://twitter.com/4yavuzyazici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4yavuzyazici" height="30" width="40" /></a>
