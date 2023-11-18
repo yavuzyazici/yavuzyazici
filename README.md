@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
 <h3 align="center">A passionate entrepreneur from Turkey</h3>
 
-- 𖥔I’m currently learning **.NET, JS,ElasticSearch, SQL, NoSQL**
-- 𖥔What I will learn in the future: **Go, Docker, Kibana, SQL, NoSQL, React, Next.js**
+- 𖥔I’m currently learning **.NET, JavaScript,ElasticSearch, SQL, NoSQL**
+- 𖥔What I will learn in the future: **Go, Docker, Kibana, T-SQL, NoSQL, Ecma, RabitMQ, Redis, React, Vanilla.js, NoSQL **
 - 𖥔 I rarely write articles on [multicode.io](multicode.io)
 
 ### Blogs posts
