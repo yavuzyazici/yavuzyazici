@@ -1,9 +1,9 @@
 [![MasterHead](https://multicode.io/wp-content/uploads/2023/11/black-e1700314855239.jpg)](https://multicode.io)
 
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
-<h3 align="center">A passionate entrepreneur from Turkey</h3>
+<h3 align="center">A passionate Turkish entrepreneur </h3>
 
-- 𖥔I’m currently learning **.NET, JavaScript,ElasticSearch, SQL, NoSQL**
+- 𖥔I’m currently learning **.NET, JavaScript,ElasticSearch, SQL, T-SQL**
 - 𖥔What I will learn in the future: **Go, Docker, Kibana, T-SQL, NoSQL, Ecma, RabitMQ, Redis, React, Vanilla.js, NoSQL **
 - 𖥔 I rarely write articles on [multicode.io](multicode.io)
 
