@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
 <h3 align="center">A passionate Turkish entrepreneur </h3>
 
-- 𖥔I’m currently learning **.NET, JavaScript,ElasticSearch, SQL, T-SQL**
-- 𖥔What I will learn in the future: **Go, Docker, Kibana, T-SQL, NoSQL, Ecma, RabitMQ, Redis, React, Vanilla.js, NoSQL **
-- 𖥔 I rarely write articles on [multicode.io](multicode.io)
+- I’m currently learning **.NET, JavaScript, ElasticSearch, SQL, T-SQL**
+- What I will learn in the future: **Go, Docker, Kibana, T-SQL, NoSQL, Ecma, RabitMQ, Redis, React, Vanilla.js, NoSQL **
+- I rarely write articles on [multicode.io](multicode.io)
 
 [![](https://visitcount.itsvg.in/api?id=yavuzyazici&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/yavuzyazici)
 
