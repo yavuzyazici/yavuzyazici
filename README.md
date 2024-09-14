@@ -6,8 +6,8 @@
 - I’m currently learning **.NET, JavaScript, SQL**
 - What I will learn in the future: **Go, ElasticSearch, MongoDB, C, TypeScript **
 - I rarely write articles on [multicode.io](multicode.io)
-- App 1 [sifreolusturucu.com](sifreolusturucu.com)
-- App 2 [arrayhelper.com](arrayhelper.com)
+- Password Generator [sifreolusturucu.com](sifreolusturucu.com)
+- Text to Array Converter [arrayhelper.com](arrayhelper.com)
 
 [![](https://visitcount.itsvg.in/api?id=yavuzyazici&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/yavuzyazici)
 
