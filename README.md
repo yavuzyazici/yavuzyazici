@@ -6,6 +6,8 @@
 - I’m currently learning **.NET, JavaScript, SQL**
 - What I will learn in the future: **Go, ElasticSearch, MongoDB, C, TypeScript **
 - I rarely write articles on [multicode.io](multicode.io)
+- App 1 [sifreolusturucu.com](sifreolusturucu.com)
+- App 2 [arrayhelper.com](arrayhelper.com)
 
 [![](https://visitcount.itsvg.in/api?id=yavuzyazici&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/yavuzyazici)
 
@@ -15,7 +17,7 @@
 <a href="https://instagram.com/_yavuzyazici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yavuzyazici" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/4yavuzyazici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="4yavuzyazici" height="30" width="40" /></a>
 <a href="https://multicode.io/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://multicode.io/feed/" height="30" width="40" /></a>
-<a href="https://www.arrayhelper.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.arrayhelper.com/" height="30" width="40" /></a>
-<a href="https://sifreolusturucu.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.sifreolusturu.com/" height="30" width="40" /></a>
+<a href="https://www.arrayhelper.com/" target="blank"><img align="center" src="https://www.arrayhelper.com/images/icons/icon.png" alt="https://www.arrayhelper.com/" height="30" width="40" /></a>
+<a href="https://sifreolusturucu.com/" target="blank"><img align="center" src="https://sifreolusturucu.com/resimler/sifre-olusturucu-og.png" alt="https://www.sifreolusturu.com/" height="30" width="40" /></a>
 </p>
 
