@@ -11,12 +11,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=yavuzyazici&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/yavuzyazici)
 
-<h3 align="left">Social:</h3>
-<p align="left">
-<a href="https://twitter.com/4yavuzyazici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4yavuzyazici" height="30" width="40" /></a>
-<a href="https://instagram.com/_yavuzyazici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yavuzyazici" height="30" width="40" /></a>
-</p>
-
 <h3 align="left"> Projects:</h3>
 <p align="left">
   <a href="https://multicode.io/" target="blank"><img align="center" src="https://multicode.io/wp-content/uploads/2023/10/favicon-150x150.png" alt="https://multicode.io/" height="40" width="40" /></a>
