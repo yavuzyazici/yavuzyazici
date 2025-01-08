@@ -1,7 +1,7 @@
 [![MasterHead](https://multicode.io/wp-content/uploads/2023/11/black-e1700314855239.jpg)](https://multicode.io)
 
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
-<h3 align="center">A passionate Turkish entrepreneur </h3>
+<h3 align="center">A passionate Turkish programmer </h3>
 
 - I’m currently learning **.NET, JavaScript, SQL**
 - What I will learn in the future: ** Go, ElasticSearch, MongoDB, C, TypeScript **
