@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Turkish programmer </h3>
 
 - I’m currently learning **.NET, JavaScript, SQL**
-- What I will learn in the future: ** Go, ElasticSearch, MongoDB, C, TypeScript **
 - I’m currently working at **[atakdomain.com](https://www.atakdomain.com)** as Junior Software Developer
 - I rarely write articles on [multicode.io](https://www.multicode.io)
 - Password Generator [sifreolusturucu.com](https://www.sifreolusturucu.com)
