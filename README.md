@@ -4,10 +4,11 @@
 <h3 align="center">A passionate Turkish programmer </h3>
 
 - I’m currently learning **.NET, JavaScript, SQL**
-- I’m currently working at **[atakdomain.com](https://www.atakdomain.com)** as Junior Software Developer
+- I’m currently working at **[atakdomain.com](https://www.atakdomain.com)** and **[domainnameapi.com](https://www.domainnameapi.com)** (Both owned by same company) as Junior Software Developer
 - I rarely write articles on [multicode.io](https://www.multicode.io)
 - Password Generator [sifreolusturucu.com](https://www.sifreolusturucu.com)
 - Text to Array Converter [arrayhelper.com](https://www.arrayhelper.com)
+- My Portfolio Website [yavuzyazici.com](https://www.yavuzyazici.com)
 
 [![](https://visitcount.itsvg.in/api?id=yavuzyazici&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/yavuzyazici)
 
