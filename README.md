@@ -20,3 +20,14 @@
   <a href="https://www.yavuzyazici.com/" target="blank"><img align="center" src="https://www.yavuzyazici.com/favicon.ico" alt="https://www.yavuzyazici.com/" height="40" width="40" /></a>
 </p>
 
+<h3 align="left"> Languages I Use:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
+<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+</p>
