@@ -66,5 +66,8 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
     </td>
+        <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte5" width="50" height="50"/>
+    </td>
   </tr>
 </table>
